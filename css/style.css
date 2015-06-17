@@ -3,7 +3,7 @@ body { background-color: #39acc9; color: #3e3e3e;
 	font-family: 'Source Sans Pro','Proxima Nova','Helvetica Neue',Helvetica,'Open Sans',Arial,sans-serif;
 	font-weight: normal;
 }
-.header h3 {color: #f7f6f6;
+.header {color: #f7f6f6;
 	margin-top: 0.5em;
 	padding-bottom: 0px;
 	font-size: 34px;
